@@ -7,7 +7,7 @@
 [![Cápsula do Tempo](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://charlesbveiga.github.io/capsuladotempo/)
 [![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=572B6&labelColor=0D1117)&nbsp;](https://www.instagram.com/charlesbveiga)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesbveiga/)
-[![Devlinks](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://charlesbveiga.github.io/devlinks/) 
+[![Devlinks](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://cbvportfolio.com.br) 
 
 
 ![charlesbveiga GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesbveiga&show_icons=true&theme=cobalt)
