@@ -32,6 +32,6 @@ Conhecimento HTML |CSS | JS | PYTHON | PHP | MySql | SELENIUM | Segurança da In
 
 ## Linguagens em destaque
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbveiga&layout=compact)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=152&color=gradient&section=footer"/>
