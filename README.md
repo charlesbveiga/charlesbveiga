@@ -22,7 +22,7 @@
 ![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 Estudante da área de Tecnologia | Engenharia da Computação.
-Conhecimento HTML |CSS | JS | PHP | MySql | SELENIUM | Segurança da Informação | Linux | Wordpress
+Conhecimento HTML |CSS | JS | PYTHON | PHP | MySql | SELENIUM | Segurança da Informação | Linux | Wordpress
 
 ![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-0D1117?style=for-the-badge&logo=hackaday&logoColor=1572B6&labelColor=0D1117)&nbsp;
